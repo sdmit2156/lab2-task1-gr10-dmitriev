@@ -1,8 +1,7 @@
-/* main.c */
 #include <stdio.h>
+#include <string.h>
 
-void main (void)
-{
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
-}
+typedef struct {
+		char brand[50];
+		int price;
+} Car;
