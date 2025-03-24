@@ -1,10 +1,10 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is public template of assignment `"labrabota 2"` for FAMCS students for TPMP course.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+This lab was done by Alexander Dmitriev gr 10.
 
 # Building
 
