@@ -28,3 +28,13 @@ void sortCarsByPrice(Car cars[], int n) {
 				}
 		}
 }
+
+int main() {
+		const int N = 7;
+		sortCarsByPrice(cars, N);
+		int medianIndex = N / 2;
+		printf("Марка автомобиля со средней стоимостью: %s (Цена: %d)\n", 
+					 cars[medianIndex].brand, cars[medianIndex].price);
+
+		return 0;
+}
